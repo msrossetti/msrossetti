@@ -9,11 +9,9 @@
   <img alt="Top Languages" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrossetti&layout=compact&theme=github_dark" />
 </div>
 
----
-
 ## 🛠️ Skills & Technologies
 
-<div align="center">
+<div align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
@@ -25,8 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
 </div>
-
----
 
 ## 📫 Contact Me
 
