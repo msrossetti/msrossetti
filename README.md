@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mauricio Rossetti! 😁</h1>
 
-- 🎓 21 years old — Software Engineering Student  
-- 💻 Front-End Developer focused on **Angular** and **JavaScript**  
+- 🎓 22 years old — Software Engineering Student  
+- 💻 Fullstack Developer focused on **Angular** and **NestJS**  
 - ⚙️ Passionate about clean code, UI/UX, and web technologies
 
 <div align="center" style="margin-bottom: 16px;">
