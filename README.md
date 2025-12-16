@@ -14,7 +14,7 @@
   </div>
 </div>
 
----
+<h1></h1>
 
 ### 🛠️ Tech Stack & Skills
 
@@ -36,7 +36,7 @@
   </p>
 </div>
 
----
+<h1></h1>
 
 ### 📫 Let's Connect
 
