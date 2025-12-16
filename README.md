@@ -27,7 +27,7 @@
 
   <h4>🧱 Backend & Database</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=nestjs,python,csharp,dotnet,nodejs,mysql,postgres,mongo" />
+    <img src="https://skillicons.dev/icons?i=nestjs,python,cs,dotnet,nodejs,mysql,postgres,mongo" />
   </p>
 
   <h4>☁️ DevOps, Infra & Tools</h4>
