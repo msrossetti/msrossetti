@@ -17,12 +17,11 @@ Sou estudante de Engenharia de Software (22 anos), focado em criar soluções ro
 
 **Core Focus:**
 <br>
-<div style="display: flex; align-items: center; gap: 24px;">
-  <img src="https://skillicons.dev/icons?i=angular" height="50" alt="Angular" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="NestJS" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
-  <img src="./dokploy.png" height="50" width="50" alt="Dokploy"/>
-</div>
+<img src="https://skillicons.dev/icons?i=angular" height="50" alt="Angular" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="NestJS" />
+<img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+<img src="./dokploy.png" height="50" width="50" alt="Dokploy"/>
+
 
 **Languages & Tools:**
 <br>
